@@ -6,15 +6,17 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 <h2>Artículos publicados 📝</h2>
 
-<ul>
-  <li>[Diseño y fabricación de una embotelladora / tapadora para la producción de cerveza artesanal](http://revistas.fuac.edu.co/index.php/clepsidra/article/view/629/588)</li>
+✔️[Diseño y fabricación de una embotelladora / tapadora para la producción de cerveza artesanal](http://revistas.fuac.edu.co/index.php/clepsidra/article/view/629/588)
   
-  <li>[A Study of Attitude and Heading Determination through an EKF-based Sensor Fusion for Inertial Measurement Units (IMUS)](https://www.researchgate.net/publication/323204536_A_Study_of_Attitude_and_Heading_Determination_through_an_EKF-based_Sensor_Fusion_for_Inertial_Measurement_Units_IMUs)</li>
-  </li>
+✔️[A Study of Attitude and Heading Determination through an EKF-based Sensor Fusion for Inertial Measurement Units (IMUS)](https://www.researchgate.net/publication/323204536_A_Study_of_Attitude_and_Heading_Determination_through_an_EKF-based_Sensor_Fusion_for_Inertial_Measurement_Units_IMUs)
   
-[Pedagogical tool for programming and reading a PIC microcontroller by means of an embedded Raspberry pi system and an easy-to-use graphical interface](https://www.researchgate.net/publication/338465353_Pedagogical_tool_for_programming_and_reading_a_PIC_microcontroller_by_means_of_an_embedded_Raspberry_pi_system_and_an_easy-to-use_graphical_interface)
-</ul>
+✔️[Pedagogical tool for programming and reading a PIC microcontroller by means of an embedded Raspberry pi system and an easy-to-use graphical interface](https://www.researchgate.net/publication/338465353_Pedagogical_tool_for_programming_and_reading_a_PIC_microcontroller_by_means_of_an_embedded_Raspberry_pi_system_and_an_easy-to-use_graphical_interface)
 
+✔️
+
+✔️
+
+✔️
 
 
 
