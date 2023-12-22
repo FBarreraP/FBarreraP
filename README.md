@@ -1,6 +1,6 @@
-### Hi there 👋
+Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualmente soy profesor de Ingeniería Mecatrónica en la Universidad ECCI y en la Universidad Militar Nueva Granada. Los proyectos que lidero están relacionados con la programación de sistemas embebidos y robótica industrial. Algunas IDEs que utilizo son Visual Studio Code (C, C++, Pyhon, HTML, CSS, JavaScript), Qt designer y Matlab.
 
-Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualmente soy profesor de Ingeniería Mecatrónica en la Universidad ECCI y en la Universidad Militar Nueva Granada
+En mi repositorio podrá encontrar el material de las diferentes materias que actualmente estou dando, tales como microcontroladores, plataformas robóticas, robótica industrial y una electiva de algoritmos de robótica.
 
 <!--
 **FBarreraP/FBarreraP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
