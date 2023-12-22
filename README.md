@@ -18,11 +18,6 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 ✔️[Desarrollo de un brazo robótico de 2 DOF impreso en 3D, a través de un PIC 18f46k22 y MATLAB para el trazo de contornos de imágenes](https://revistas.unicomfacauca.edu.co/ojs/index.php/itc/article/view/406)
 
-<h2>Grabaciones 🎬</h2>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-KEKy8xzFPs?si=d3_cWTCV-ewMy4Um" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
-
-
 <!--
 **FBarreraP/FBarreraP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
