@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualmente soy profesor de Ingeniería Mecatrónica en la Universidad ECCI y en la Universidad Militar Nueva Granada
+
 <!--
 **FBarreraP/FBarreraP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
