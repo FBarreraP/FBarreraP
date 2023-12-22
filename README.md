@@ -12,13 +12,11 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
   
 ✔️[Pedagogical tool for programming and reading a PIC microcontroller by means of an embedded Raspberry pi system and an easy-to-use graphical interface](https://www.researchgate.net/publication/338465353_Pedagogical_tool_for_programming_and_reading_a_PIC_microcontroller_by_means_of_an_embedded_Raspberry_pi_system_and_an_easy-to-use_graphical_interface)
 
-✔️
+✔️[Implementation of a manufacturing cell in assembly of Hanoi tower](https://revistas.udistrital.edu.co/index.php/visele/article/view/20693)
 
-✔️
+✔️[3 DOF robot programmed with PIC 18f45k22 for handling materials in a robotic cell](https://revistas.udistrital.edu.co/index.php/visele/article/view/21189)
 
-✔️
-
-
+✔️[Desarrollo de un brazo robótico de 2 DOF impreso en 3D, a través de un PIC 18f46k22 y MATLAB para el trazo de contornos de imágenes](https://revistas.unicomfacauca.edu.co/ojs/index.php/itc/article/view/406)
 
 <!--
 **FBarreraP/FBarreraP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
