@@ -4,6 +4,10 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 📌En mi repositorio podrá encontrar el material de las diferentes materias que actualmente estoy dando, como lo son: microcontroladores, plataformas robóticas, robótica industrial y una electiva de algoritmos de robótica.
 
+<h2>Proyecto de grado de Maestría 📝</h2>
+
+✔️[Um estudo sobre arquiteturas de hardware para técnicas de fusão sensorial através do EKF e da estimação de estados baseada em filtros híbridos otimizados]([http://revistas.fuac.edu.co/index.php/clepsidra/article/view/629](http://repositorio2.unb.br/jspui/handle/10482/32669))
+
 <h2>Artículos publicados 📝</h2>
 
 ✔️[Diseño y fabricación de una embotelladora / tapadora para la producción de cerveza artesanal](http://revistas.fuac.edu.co/index.php/clepsidra/article/view/629)
