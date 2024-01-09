@@ -6,7 +6,7 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 <h2>Proyecto de grado de Maestría 📝</h2>
 
-✔️[Um estudo sobre arquiteturas de hardware para técnicas de fusão sensorial através do EKF e da estimação de estados baseada em filtros híbridos otimizados]([http://revistas.fuac.edu.co/index.php/clepsidra/article/view/629](http://repositorio2.unb.br/jspui/handle/10482/32669))
+✔️[Um estudo sobre arquiteturas de hardware para técnicas de fusão sensorial através do EKF e da estimação de estados baseada em filtros híbridos otimizados](http://repositorio2.unb.br/jspui/handle/10482/32669)
 
 <h2>Artículos publicados 📝</h2>
 
