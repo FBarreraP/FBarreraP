@@ -12,7 +12,7 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 ✔️[Diseño y fabricación de una embotelladora / tapadora para la producción de cerveza artesanal](http://revistas.fuac.edu.co/index.php/clepsidra/article/view/629)
   
-✔️[A Study of Attitude and Heading Determination through an EKF-based Sensor Fusion for Inertial Measurement Units (IMUS)](https://www.researchgate.net/publication/323204536_A_Study_of_Attitude_and_Heading_Determination_through_an_EKF-based_Sensor_Fusion_for_Inertial_Measurement_Units_IMUs)
+✔️[A Study of Attitude and Heading Determination through an EKF-based Sensor Fusion for Inertial Measurement Units (IMUS)](https://www.sistema.abcm.org.br/articleFiles/download/9451)
   
 ✔️[Pedagogical tool for programming and reading a PIC microcontroller by means of an embedded Raspberry pi system and an easy-to-use graphical interface](http://52.59.210.70/index.php/KnE-Engineering/article/view/5924)
 
