@@ -22,6 +22,14 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 ✔️[Desarrollo de un brazo robótico de 2 DOF impreso en 3D, a través de un PIC 18f46k22 y MATLAB para el trazo de contornos de imágenes](https://revistas.unicomfacauca.edu.co/ojs/index.php/itc/article/view/406)
 
+<h2>Proyectos de grados orientados</h2>
+
+✔️ Diseño de un sistema de energía fotovoltaica controlado a través de PIC18F4550 para una carga de 3w
+
+✔️ Diseño de un brazo robótico de 6 grados de libertad controlado mediante un microcontrolador PIC y comunicaciones seriales UART e I2C
+
+✔️ Desarrollo de un prototipo de un robot móvil autónomo de bajo costo con Raspberry para realizar tareas de pick and place, trayectorias de despacho de materiales.
+
 <!--
 **FBarreraP/FBarreraP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
