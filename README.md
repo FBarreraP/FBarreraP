@@ -32,7 +32,13 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 <div align="center">
   <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBarreraP\&layout=donut"/>
-  
+  <img height=180cm src="https://github-readme-stats.vercel.app/api/?username=FBarreraP\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515"/>  
+</div>
+
+<!-- TECNOLOGIAS -->
+<div align="center">
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </div>
 
 <!--
