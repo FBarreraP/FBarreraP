@@ -47,8 +47,10 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
   
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)
+
+   ![](https://visitor-badge.glitch.me/badge?page_id=FBarreraP)
   
 </div>
 
