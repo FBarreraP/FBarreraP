@@ -47,13 +47,19 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
   
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+  ![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)
+  ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+  ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
+  ![RPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
 
-   ![](https://visitor-badge.glitch.me/badge?page_id=FBarreraP)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=FBarreraP&left_color=green&right_color=red)
   
 </div>
-
 
 <!--
 **FBarreraP/FBarreraP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
