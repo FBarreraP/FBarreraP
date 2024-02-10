@@ -30,6 +30,8 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 ✔️ Desarrollo de un prototipo de un robot móvil autónomo de bajo costo con Raspberry para realizar tareas de pick and place, trayectorias de despacho de materiales.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FBarreraP\&layout=donut)](https://github.com/FBarreraP/github-readme-stats)
+
 <!--
 **FBarreraP/FBarreraP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
