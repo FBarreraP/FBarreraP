@@ -31,9 +31,8 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 ✔️ Desarrollo de un prototipo de un robot móvil autónomo de bajo costo con Raspberry para realizar tareas de pick and place, trayectorias de despacho de materiales.
 
 <div align="center">
-<img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBarreraP\&layout=donut"/>
-<img height=180cm src="https://github-readme-stats.vercel.app/api/?username=FBarreraP\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515"/>
-
+  <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBarreraP\&layout=donut"/>
+  <img height=180cm src="https://github-readme-stats.vercel.app/api/?username=FBarreraP\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515"/>
 </div>
 
 <!--
