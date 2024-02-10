@@ -57,7 +57,8 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
   ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
   ![RPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=FBarreraP&left_color=green&right_color=red)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=FBarreraP&label=visitors&countColor=%23263759&style=flat-square)
+
   
 </div>
 
