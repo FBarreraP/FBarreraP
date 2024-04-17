@@ -46,7 +46,7 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 <div align="center">
 
-🎥🔴🎬 Video de introducción a Latex (plantilla IEEE) con Texmaker Ícone da Web global
+🎥🔴🎬 Video de introducción a Latex (plantilla IEEE) con Texmaker
   
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZqqeQBvKsGs/0.jpg)](https://www.youtube.com/watch?v=ZqqeQBvKsGs)
   
