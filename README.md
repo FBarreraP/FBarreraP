@@ -42,7 +42,7 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 <br>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=ZqqeQBvKsGs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-KEKy8xzFPs)
 
 <br>
 
@@ -60,7 +60,7 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
   ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
   ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
   ![RPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
-  ![Latex](https://img.shields.io/badge/Latex--3670A0?style=flat-square&logo=Latex&logoColor=white)
+  ![Latex](https://img.shields.io/badge/Latex-3670A0?style=flat-square&logo=Latex&logoColor=white)
 
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=FBarreraP&label=visitors&countColor=%23263759&style=flat-square)
 
