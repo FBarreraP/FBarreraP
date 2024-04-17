@@ -42,7 +42,9 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 <br>
 
+<div align="center">
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZqqeQBvKsGs/0.jpg)](https://www.youtube.com/watch?v=ZqqeQBvKsGs)
+</div>div>
 
 <br>
 
