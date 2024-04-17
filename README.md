@@ -26,6 +26,8 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 ✔️ Diseño de un sistema de energía fotovoltaica controlado a través de PIC18F4550 para una carga de 3w
 
+✔️ Diseño y construcción de un control inalámbrico para el robot UR10 a través de una IMU de 9DOF y visión de máquina
+
 ✔️ Diseño de un brazo robótico de 6 grados de libertad controlado mediante un microcontrolador PIC y comunicaciones seriales UART e I2C
 
 ✔️ [Desarrollo de un prototipo de un robot móvil autónomo de bajo costo con Raspberry para realizar tareas de pick and place, trayectorias de despacho de materiales](https://repositorio.ecci.edu.co/handle/001/3927)
@@ -43,7 +45,9 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 <br>
 
 <div align="center">
+  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZqqeQBvKsGs/0.jpg)](https://www.youtube.com/watch?v=ZqqeQBvKsGs)
+  
 </div>
 
 <br>
