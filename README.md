@@ -26,9 +26,9 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 ✔️ Diseño de un sistema de energía fotovoltaica controlado a través de PIC18F4550 para una carga de 3w
 
-✔️ Diseño y construcción de un control inalámbrico para el robot UR10 a través de una IMU de 9DOF y visión de máquina
+✔️ [Diseño y construcción de un control inalámbrico para el robot UR10 a través de una IMU de 9DOF y visión de máquina](https://repositorio.ecci.edu.co/handle/001/4018)
 
-✔️ Diseño de un brazo robótico de 6 grados de libertad controlado mediante un microcontrolador PIC y comunicaciones seriales UART e I2C
+✔️ [Diseño de un brazo robótico de 6 grados de libertad controlado mediante un microcontrolador PIC y comunicaciones seriales UART e I2C](https://repositorio.ecci.edu.co/handle/001/4019)
 
 ✔️ [Desarrollo de un prototipo de un robot móvil autónomo de bajo costo con Raspberry para realizar tareas de pick and place, trayectorias de despacho de materiales](https://repositorio.ecci.edu.co/handle/001/3927)
 
