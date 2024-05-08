@@ -24,7 +24,7 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 <h2>Proyectos de grados orientados</h2>
 
-✔️ Diseño de un sistema de energía fotovoltaica controlado a través de PIC18F4550 para una carga de 3w
+✔️ [Diseño de un sistema de energía fotovoltaica controlado a través de PIC18F4550 para una carga de 3w](https://repositorio.ecci.edu.co/handle/001/4021)
 
 ✔️ [Diseño y construcción de un control inalámbrico para el robot UR10 a través de una IMU de 9DOF y visión de máquina](https://repositorio.ecci.edu.co/handle/001/4018)
 
