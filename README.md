@@ -30,7 +30,7 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 ✔️ [Diseño de un brazo robótico de 6 grados de libertad controlado mediante un microcontrolador PIC y comunicaciones seriales UART e I2C](https://repositorio.ecci.edu.co/handle/001/4019)
 
-Distinción meritoria 🥇
+Distinción meritoria 🎖️
 
 ✔️ [Desarrollo de un prototipo de un robot móvil autónomo de bajo costo con Raspberry para realizar tareas de pick and place, trayectorias de despacho de materiales](https://repositorio.ecci.edu.co/handle/001/3927)
 
