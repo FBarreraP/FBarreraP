@@ -1,8 +1,8 @@
 <h1>Hola, soy Fabián 🤙</h1>
 
-Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualmente soy profesor 👨‍🏫 de Ingeniería Mecatrónica en la Universidad ECCI y en la Universidad Militar Nueva Granada. Los proyectos que lidero están relacionados con la programación de sistemas embebidos (microcontroladores, Raspberrys Pi, FPGAs) y robótica industrial 🦾. Algunas IDEs 💻 que utilizo son Visual Studio Code (C, C++, Pyhon, HTML, CSS, JavaScript), Qt designer y Matlab.
+Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualmente soy profesor 👨‍🏫 de Ingeniería Mecatrónica en la Universidad ECCI y en la Universidad Militar Nueva Granada. Experiencia de 6 años en docencia, también en investigación formativa, procesos de registro calificado y alta calidad. Los proyectos que lidero desde el semillero GIDRA (Grupo de Investigación y Desarrollo en Robótica Aplicada) están relacionados con la programación de sistemas embebidos (microcontroladores, Raspberrys Pi, FPGAs) y robótica industrial 🦾, IoT e impresión 3D. Algunos lenguajes de programación que utilizo 💻 son: C, C++, Pyhon, HTML, CSS, JavaScript y Matlab.
 
-📌En mi repositorio podrá encontrar el material de las diferentes materias que actualmente estoy dando, como lo son: microcontroladores, plataformas robóticas, robótica industrial y una electiva de algoritmos de robótica.
+📌En mi repositorio podrá encontrar el material de las diferentes materias que he enseñado a lo largo de mi experiencia como docente, como son: microcontroladores, plataformas robóticas, robótica industrial y unas electiva de algoritmos de robótica con Rasperry Pi y ROS.
 
 <h2>Proyecto de grado de Maestría 📒</h2>
 
