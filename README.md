@@ -4,11 +4,15 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 📌En mi repositorio podrá encontrar el material de las diferentes materias que he enseñado a lo largo de mi experiencia como docente, como son: microcontroladores, plataformas robóticas, robótica industrial y unas electiva de algoritmos de robótica con Rasperry Pi y ROS.
 
+<div align="center">
+
 <h2>Proyecto de grado de Pregrado 📒</h2>
 
 [![video embotelladora y tapadora](https://img.youtube.com/vi/n28c11O6EaA/0.jpg)](https://www.youtube.com/watch?v=n28c11O6EaA)
 
 <h2>Proyecto de grado de Maestría 📒</h2>
+
+</div>
 
 ✔️[Um estudo sobre arquiteturas de hardware para técnicas de fusão sensorial através do EKF e da estimação de estados baseada em filtros híbridos otimizados](http://repositorio2.unb.br/jspui/handle/10482/32669)
 
