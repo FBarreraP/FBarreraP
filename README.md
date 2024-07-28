@@ -4,6 +4,10 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 📌En mi repositorio podrá encontrar el material de las diferentes materias que he enseñado a lo largo de mi experiencia como docente, como son: microcontroladores, plataformas robóticas, robótica industrial y unas electiva de algoritmos de robótica con Rasperry Pi y ROS.
 
+<h2>Proyecto de grado de Pregrado 📒</h2>
+
+[![video embotelladora y tapadora](https://youtu.be/n28c11O6EaA?t=95)](https://www.youtube.com/watch?v=n28c11O6EaA)
+
 <h2>Proyecto de grado de Maestría 📒</h2>
 
 ✔️[Um estudo sobre arquiteturas de hardware para técnicas de fusão sensorial através do EKF e da estimação de estados baseada em filtros híbridos otimizados](http://repositorio2.unb.br/jspui/handle/10482/32669)
@@ -50,7 +54,7 @@ Distinción meritoria 🎖️
 
 🎥🔴🎬 Video de introducción a Latex (plantilla IEEE) con Texmaker
   
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZqqeQBvKsGs/0.jpg)](https://www.youtube.com/watch?v=ZqqeQBvKsGs)
+[![video latex](https://img.youtube.com/vi/ZqqeQBvKsGs/0.jpg)](https://www.youtube.com/watch?v=ZqqeQBvKsGs)
   
 </div>
 
