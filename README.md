@@ -6,7 +6,7 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 <h2>Proyecto de grado de Pregrado 📒</h2>
 
-[![video embotelladora y tapadora](https://youtu.be/n28c11O6EaA?t=95)](https://www.youtube.com/watch?v=n28c11O6EaA)
+[![video embotelladora y tapadora](https://img.youtube.com/vi/n28c11O6EaA/0.jpg)](https://www.youtube.com/watch?v=n28c11O6EaA)
 
 <h2>Proyecto de grado de Maestría 📒</h2>
 
