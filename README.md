@@ -4,7 +4,7 @@ Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualme
 
 📌En mi repositorio podrá encontrar el material de las diferentes materias que he enseñado a lo largo de mi experiencia como docente, como son: microcontroladores, plataformas robóticas, robótica industrial y unas electiva de algoritmos de robótica con Rasperry Pi y ROS.
 
-<a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001609254">cvlac</a>
+Mi CvLAC puede ser consultado <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001609254">aquí</a>
 
 <div align="center">
 
