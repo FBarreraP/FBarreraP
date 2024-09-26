@@ -1,10 +1,10 @@
 <h1>Hola, soy Fabián 🤙</h1>
 
-Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualmente soy profesor 👨‍🏫 de Ingeniería Mecatrónica en la Universidad ECCI y en la Universidad Militar Nueva Granada. Experiencia de 6 años en docencia, también en investigación formativa, procesos de registro calificado y alta calidad. Los proyectos que lidero desde el semillero GIDRA (Grupo de Investigación y Desarrollo en Robótica Aplicada) están relacionados con la programación de sistemas embebidos (microcontroladores, Raspberrys Pi, FPGAs) y robótica industrial 🦾, IoT e impresión 3D. Algunos lenguajes de programación que utilizo 💻 son: C, C++, Pyhon, HTML, CSS, JavaScript y Matlab.
+Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualmente soy profesor 👨‍🏫 de Ingeniería Mecatrónica en la Universidad ECCI y en la Universidad Militar Nueva Granada. Experiencia de 6 años en docencia, también en investigación formativa, procesos de registro calificado y alta calidad. Los proyectos que lidero desde el semillero GIDRA (Grupo de Investigación y Desarrollo en Robótica Aplicada) están relacionados con la programación de sistemas embebidos (PICs, STM32, Raspberrys Pi, FPGAs) y robótica (móvil y fija) con ROS 🦾, IoT e impresión 3D. Algunos lenguajes de programación que utilizo 💻 son: C, C++, Pyhon, HTML, CSS, JavaScript y Matlab.
 
-📌En mi repositorio podrá encontrar el material de las diferentes materias que he enseñado a lo largo de mi experiencia como docente, como son: microcontroladores, plataformas robóticas, robótica industrial y unas electiva de algoritmos de robótica con Rasperry Pi y ROS.
+📌En mi repositorio podrá encontrar el material de las algunas materias que he enseñado a lo largo de mi experiencia como docente, como son: Procesos de Mecanizado, Fundamentos en Automatización y Robótica Industrial, Programación 1, Programación 2, Microcontroladores, Plataformas Robóticas, Robótica Industrial, Programación CNC, Sistemas Embebidos, Electiva 1 de Robótica con Peter Corke en RPi y Electiva 2 de Robótica con IMU, STM32 y ROS en RPi, Seminario de Microcontroladores (UART, I2C y SPI) con IoT, Expresión Gráfica, Electrónica Análoga y Control Lineal (análogo).
 
-Mi CvLAC puede ser consultado <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001609254">aquí</a>
+Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001609254">CvLAC</a>
 
 <div align="center">
 
