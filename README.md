@@ -24,7 +24,7 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
   
 ✔️[A Study of Attitude and Heading Determination through an EKF-based Sensor Fusion for Inertial Measurement Units (IMUS)](https://www.sistema.abcm.org.br/articleFiles/download/9451)
   
-✔️[Pedagogical tool for programming and reading a PIC microcontroller by means of an embedded Raspberry pi system and an easy-to-use graphical interface](http://52.59.210.70/index.php/KnE-Engineering/article/view/5924)
+✔️[Pedagogical tool for programming and reading a PIC microcontroller by means of an embedded Raspberry pi system and an easy-to-use graphical interface](https://kneopen.com/KnE-Engineering/article/view/5924/)
 
 ✔️[Implementation of a manufacturing cell in assembly of Hanoi tower](https://revistas.udistrital.edu.co/index.php/visele/article/view/20693)
 
