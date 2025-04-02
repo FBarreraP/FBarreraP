@@ -16,7 +16,7 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
 
 </div>
 
-✔️[Um estudo sobre arquiteturas de hardware para técnicas de fusão sensorial através do EKF e da estimação de estados baseada em filtros híbridos otimizados](http://repositorio2.unb.br/jspui/handle/10482/32669)
+✔️[Um estudo sobre arquiteturas de hardware para técnicas de fusão sensorial através do EKF e da estimação de estados baseada em filtros híbridos otimizados](https://repositorio.unb.br/handle/10482/32669)
 
 <h2>Artículos publicados 📝</h2>
 
