@@ -44,6 +44,10 @@ Distinción meritoria 🎖️
 
 ✔️ [Desarrollo de un prototipo de un robot móvil autónomo de bajo costo con Raspberry para realizar tareas de pick and place, trayectorias de despacho de materiales](https://repositorio.ecci.edu.co/handle/001/3927)
 
+Distinción laureada 🥇
+
+✔️ [Diseño, construcción y control de un brazo robótico 2R planar para seguimiento de trayectorias](https://repositorio.ecci.edu.co/entities/publication/1f7c8cc3-b5db-4ee5-94f0-b3a7fecdb5af)
+
 <br>
 
 <!-- GITHUB STATUS -->
