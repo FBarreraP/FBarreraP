@@ -40,6 +40,8 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
 
 ✔️ [Diseño de un brazo robótico de 6 grados de libertad controlado mediante un microcontrolador PIC y comunicaciones seriales UART e I2C](https://repositorio.ecci.edu.co/handle/001/4019)
 
+✔️ [Desarrollo de un prototipo de brazo robótico de 4 GDL teleoperado, utilizando IMUs y ROS, para manipular materiales tóxicos y/o explosivos](https://repositorio.ecci.edu.co/handle/001/4451)
+
 Distinción meritoria 🎖️
 
 ✔️ [Desarrollo de un prototipo de un robot móvil autónomo de bajo costo con Raspberry para realizar tareas de pick and place, trayectorias de despacho de materiales](https://repositorio.ecci.edu.co/handle/001/3927)
