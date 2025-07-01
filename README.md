@@ -32,7 +32,7 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
 
 ✔️[Desarrollo de un brazo robótico de 2 DOF impreso en 3D, a través de un PIC 18f46k22 y MATLAB para el trazo de contornos de imágenes](https://revistas.unicomfacauca.edu.co/ojs/index.php/itc/article/view/406)
 
-✔️[Cinemática inversa para un robot planar 2R basada en una red neuronal con datos sintéticos a través de un enfoque de ensamble de modelos](https://ojs.unipamplona.edu.co/index.php/rcta/article/view/3583)
+✔️[Inverse kinematics for a 2R planar robot based on a neural network with synthetic data through a model ensemble approach](https://ojs.unipamplona.edu.co/index.php/rcta/article/view/3583)
 
 <h2>Proyectos de grados orientados</h2>
 
