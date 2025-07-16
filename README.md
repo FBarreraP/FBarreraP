@@ -88,7 +88,7 @@ Distinción laureada 🥇
   ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
   ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
   ![RPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
-  ![RPi](https://img.shields.io/ros/v/:distro/:repoName)
+  <!--![ros](https://img.shields.io/ros/v/:distro/:repoName)-->
   ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&&logo=ros&logoColor=white)
   ![Latex](https://img.shields.io/badge/Latex-3670A0?style=flat-square&logo=Latex&logoColor=white)
 
