@@ -91,6 +91,7 @@ Distinción laureada 🥇
   <!--![ros](https://img.shields.io/ros/v/:distro/:repoName)-->
   ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&&logo=ros&logoColor=white)
   ![Latex](https://img.shields.io/badge/Latex-3670A0?style=flat-square&logo=Latex&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=FBarreraP&label=visitors&countColor=%23263759&style=flat-square)
 
