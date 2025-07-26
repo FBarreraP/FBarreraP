@@ -30,6 +30,8 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
 
 ✔️[3 DOF robot programmed with PIC 18f45k22 for handling materials in a robotic cell](https://revistas.udistrital.edu.co/index.php/visele/article/view/21189)
 
+✔️[Robot de 2 DOF programado con MatLab® (guide y Peter Corke) y Arduino uno para escritura de caracteres alfabéticos](revistas.udistrital.edu.co/index.php/visele/issue/view/1211)
+
 ✔️[Desarrollo de un brazo robótico de 2 DOF impreso en 3D, a través de un PIC 18f46k22 y MATLAB para el trazo de contornos de imágenes](https://revistas.unicomfacauca.edu.co/ojs/index.php/itc/article/view/406)
 
 ✔️[Inverse kinematics for a 2R planar robot based on a neural network with synthetic data through a model ensemble approach](https://ojs.unipamplona.edu.co/index.php/rcta/article/view/3583)
