@@ -20,7 +20,8 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
 
 <h2>Artículos publicados 📝</h2>
 
-✔️[Diseño y fabricación de una embotelladora / tapadora para la producción de cerveza artesanal](http://revistas.fuac.edu.co/index.php/clepsidra/article/view/629)
+✔️[Diseño y fabricación de una embotelladora / tapadora para la producción de cerveza artesanal](https://pt.scribd.com/document/374833168/Tesis-Tapadora-Cerveza)
+<!--(http://revistas.fuac.edu.co/index.php/clepsidra/article/view/629)-->
   
 ✔️[A Study of Attitude and Heading Determination through an EKF-based Sensor Fusion for Inertial Measurement Units (IMUS)](https://www.sistema.abcm.org.br/articleFiles/download/9451)
   
