@@ -18,6 +18,13 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
 
 ✔️[Um estudo sobre arquiteturas de hardware para técnicas de fusão sensorial através do EKF e da estimação de estados baseada em filtros híbridos otimizados](https://repositorio.unb.br/handle/10482/32669)
 
+<h2>Libros publicados </h2>
+
+Digitalia - ECCI
+✔️[El PIC, tu mejor amigo](https://0210tctgf-y-https-www-digitaliapublishing-com.ecci.metaproxy.org/a/189721/el-pic--tu-mejor-amigo)
+Digitalia - UMNG
+[El PIC, tu mejor amigo](https://www-digitaliapublishing-com.ezproxy.umng.edu.co/a/189721/el-pic--tu-mejor-amigo)
+
 <h2>Artículos publicados 📝</h2>
 
 ✔️[Diseño y fabricación de una embotelladora / tapadora para la producción de cerveza artesanal](https://pt.scribd.com/document/374833168/Tesis-Tapadora-Cerveza)
