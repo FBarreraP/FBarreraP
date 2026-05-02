@@ -20,10 +20,10 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
 
 <h2>Libros publicados </h2>
 
-Digitalia - ECCI
-✔️[El PIC, tu mejor amigo](https://0210tctgf-y-https-www-digitaliapublishing-com.ecci.metaproxy.org/a/189721/el-pic--tu-mejor-amigo)
-Digitalia - UMNG
-[El PIC, tu mejor amigo](https://www-digitaliapublishing-com.ezproxy.umng.edu.co/a/189721/el-pic--tu-mejor-amigo)
+Digitalia - ECCI<br>
+✔️[El PIC, tu mejor amigo](https://0210tctgf-y-https-www-digitaliapublishing-com.ecci.metaproxy.org/a/189721/el-pic--tu-mejor-amigo)<br>
+Digitalia - UMNG<br>
+[El PIC, tu mejor amigo](https://www-digitaliapublishing-com.ezproxy.umng.edu.co/a/189721/el-pic--tu-mejor-amigo)<br>
 
 <h2>Artículos publicados 📝</h2>
 
