@@ -79,7 +79,11 @@ Distinción laureada 🥇
 🎥🔴🎬 Video de introducción a Latex (plantilla IEEE) con Texmaker
   
 [![video latex](https://img.youtube.com/vi/ZqqeQBvKsGs/0.jpg)](https://www.youtube.com/watch?v=ZqqeQBvKsGs)
-  
+
+🎥🔴🎬 Video de introducción a Github con Gitbash y Visual Studio code
+
+[![video latex](https://img.youtube.com/vi/Ce8E7Cv47oE/0.jpg)](https://www.youtube.com/watch?v=Ce8E7Cv47oE)
+ 
 </div>
 
 <br>
