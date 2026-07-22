@@ -66,8 +66,7 @@ Distinción laureada 🥇
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FBarreraP&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBarreraP&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://herokuapp.com" />
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
