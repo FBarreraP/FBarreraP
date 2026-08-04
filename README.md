@@ -44,6 +44,8 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
 
 ✔️[Development of a Low-Cost Internet of Robotic Things (IoRT) System for Web-Based Control of a 3-DoF Robotic Arm](https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/8814)
 
+✔️[Computer Vision Implementation on Raspberry Pi 4 for a 3 DOF Robotic Arm in Object Classification by Shape and Color](https://revistas.unal.edu.co/index.php/ingeinv/article/view/118562)
+
 <h2>Proyectos de grados orientados</h2>
 
 ✔️ [Diseño de un sistema de energía fotovoltaica controlado a través de PIC18F4550 para una carga de 3w](https://repositorio.ecci.edu.co/handle/001/4021)
