@@ -46,6 +46,8 @@ Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurricu
 
 ✔️[Computer Vision Implementation on Raspberry Pi 4 for a 3 DOF Robotic Arm in Object Classification by Shape and Color](https://revistas.unal.edu.co/index.php/ingeinv/article/view/118562)
 
+✔️[Cascade Control of a 2R Planar Robot for Trajectory Tracking Using an Ensemble MLP-Based Inverse Kinematics](https://www.jonuns.com/index.php/journal/article/view/1954)
+
 <h2>Proyectos de grados orientados</h2>
 
 ✔️ [Diseño de un sistema de energía fotovoltaica controlado a través de PIC18F4550 para una carga de 3w](https://repositorio.ecci.edu.co/handle/001/4021)
