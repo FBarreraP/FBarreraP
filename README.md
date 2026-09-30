@@ -12,7 +12,8 @@ Soy Ingeniero Electromecánico y Magíster en Sistemas Mecatrónicos. Actualment
 
 ⚙️ Procesos de Mecanizado<br>
 🤖 Fundamentos de Automatización y Robótica Industrial<br>
-💻 Programación I y II<br>
+💻 Programación I<br>
+💻 Programación II<br>
 🔌 Microcontroladores<br>
 🦾 Plataformas Robóticas<br>
 🤖 Robótica Industrial<br>
