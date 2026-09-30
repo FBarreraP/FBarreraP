@@ -1,10 +1,31 @@
-<h1>Hola, soy Fabián 🤙</h1>
+<h1>¡Hola!, soy Fabián 🤙</h1>
 
-Soy Ingeniero Electromecánico con Maestría en Sistemas Mecatrônicos, actualmente soy profesor 👨‍🏫 de Ingeniería Mecatrónica en la Universidad ECCI y en la Universidad Militar Nueva Granada. Experiencia de 6 años en docencia, también en investigación formativa, procesos de registro calificado y alta calidad. Los proyectos que lidero desde el semillero GIDRA (Grupo de Investigación y Desarrollo en Robótica Aplicada) están relacionados con la programación de sistemas embebidos (PICs, STM32, Raspberrys Pi, FPGAs) y robótica (móvil y fija) con ROS 🦾, IoT e impresión 3D. Algunos lenguajes de programación que utilizo 💻 son: C, C++, Pyhon, HTML, CSS, JavaScript y Matlab.
+Soy Ingeniero Electromecánico y Magíster en Sistemas Mecatrónicos. Actualmente me desempeño como profesor de Ingeniería Mecatrónica en la Universidad ECCI y en la Universidad Militar Nueva Granada.
 
-📌En mi repositorio podrá encontrar el material de las algunas materias que he enseñado a lo largo de mi experiencia como docente, como son: Procesos de Mecanizado, Fundamentos en Automatización y Robótica Industrial, Programación 1, Programación 2, Microcontroladores, Plataformas Robóticas, Robótica Industrial, Programación CNC, Sistemas Embebidos, Electiva 1 de Robótica con Peter Corke en RPi y Electiva 2 de Robótica con IMU, STM32 y ROS en RPi, Seminario de Microcontroladores (UART, I2C y SPI) con IoT, Expresión Gráfica, Electrónica Análoga y Control Lineal (análogo).
+👨‍🏫 Cuento con más de 7 años de experiencia en docencia universitaria; de igual manera, cuenta con experiencia en investigación formativa, procesos de registro calificado y gestión de procesos de alta calidad académica.
 
-Mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001609254">CvLAC</a>
+🤖 Desde el semillero GIDRA (Grupo de Investigación y Desarrollo en Robótica Aplicada) de la Universidad ECCI, lidero proyectos relacionados con programación de sistemas embebidos, robótica móvil e industrial, ROS, IoT e impresión 3D. Trabajo principalmente con PIC, STM32, Raspberry Pi y FPGA.
+
+💻 Algunos de los lenguajes y herramientas que domino son: C, C++, Python, MATLAB, HTML, CSS, JavaScript y ROS
+
+📚 En este repositorio encontrará material, ejemplos, prácticas y proyectos desarrollados a lo largo de mi experiencia docente en diferentes áreas de la ingeniería, entre ellas:
+
+⚙️ Procesos de Mecanizado
+🤖 Fundamentos de Automatización y Robótica Industrial
+💻 Programación I y II
+🔌 Microcontroladores
+🦾 Plataformas Robóticas
+🤖 Robótica Industrial
+🏭 Programación CNC
+🔧 Sistemas Embebidos
+🐍 Electiva I: Robótica con Peter Corke y Raspberry Pi
+🧭 Electiva II: Robótica con IMU, STM32, ROS y Raspberry Pi
+📡 Seminario de Microcontroladores: UART, I²C, SPI e IoT
+📐 Expresión Gráfica
+⚡ Electrónica Análoga
+🎛️ Control Lineal (análogo)
+
+Este espacio reúne recursos orientados al aprendizaje práctico de la programación, los sistemas embebidos, la automatización y la robótica, con énfasis en la integración de hardware y software. Si desea conocer un poco más mi perfil profesional puede acceder a mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001609254">CvLAC</a>
 
 <div align="center">
 
