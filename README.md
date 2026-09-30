@@ -6,7 +6,7 @@ Soy Ingeniero Electromecánico y Magíster en Sistemas Mecatrónicos. Actualment
 
 🤖 Desde el semillero GIDRA (Grupo de Investigación y Desarrollo en Robótica Aplicada) de la Universidad ECCI, lidero proyectos relacionados con programación de sistemas embebidos, robótica móvil e industrial, ROS, IoT e impresión 3D. Trabajo principalmente con PIC, STM32, Raspberry Pi y FPGA.
 
-💻 Algunos de los lenguajes y herramientas que domino son: C, C++, Python, MATLAB, HTML, CSS, JavaScript y ROS
+💻 Algunos de los lenguajes y herramientas que domino son: C, C++, Python, VHDL, MATLAB, HTML, CSS, JavaScript y ROS
 
 📚 En este repositorio encontrará material, ejemplos, prácticas y proyectos desarrollados a lo largo de mi experiencia docente en diferentes áreas de la ingeniería, entre ellas:
 
