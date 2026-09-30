@@ -10,20 +10,20 @@ Soy Ingeniero Electromecánico y Magíster en Sistemas Mecatrónicos. Actualment
 
 📚 En este repositorio encontrará material, ejemplos, prácticas y proyectos desarrollados a lo largo de mi experiencia docente en diferentes áreas de la ingeniería, entre ellas:
 
-⚙️ Procesos de Mecanizado
-🤖 Fundamentos de Automatización y Robótica Industrial
-💻 Programación I y II
-🔌 Microcontroladores
-🦾 Plataformas Robóticas
-🤖 Robótica Industrial
-🏭 Programación CNC
-🔧 Sistemas Embebidos
-🐍 Electiva I: Robótica con Peter Corke y Raspberry Pi
-🧭 Electiva II: Robótica con IMU, STM32, ROS y Raspberry Pi
-📡 Seminario de Microcontroladores: UART, I²C, SPI e IoT
-📐 Expresión Gráfica
-⚡ Electrónica Análoga
-🎛️ Control Lineal (análogo)
+⚙️ Procesos de Mecanizado<br>
+🤖 Fundamentos de Automatización y Robótica Industrial<br>
+💻 Programación I y II<br>
+🔌 Microcontroladores<br>
+🦾 Plataformas Robóticas<br>
+🤖 Robótica Industrial<br>
+🏭 Programación CNC<br>
+🔧 Sistemas Embebidos<br>
+🐍 Electiva I: Robótica con Raspberry Pi y URDF<br>
+🧭 Electiva II: Robótica con IMU, STM32, ROS2, Raspberry Pi y URDF<br>
+📡 Seminario de Microcontroladores: UART, I²C, SPI e IoT<br>
+📐 Expresión Gráfica<br>
+⚡ Electrónica Análoga<br>
+🎛️ Control Lineal (análogo)<br>
 
 Este espacio reúne recursos orientados al aprendizaje práctico de la programación, los sistemas embebidos, la automatización y la robótica, con énfasis en la integración de hardware y software. Si desea conocer un poco más mi perfil profesional puede acceder a mi <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001609254">CvLAC</a>
 
